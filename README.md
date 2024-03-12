@@ -1,7 +1,7 @@
 # PDF-scraper-bot
 
 ----------------
-# Table of contents
+## Table of contents
 
 - [1. Introduction](#1-Introduction)
 - [2. Build Process](#2-Build-Process)
