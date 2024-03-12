@@ -3,9 +3,9 @@
 ----------------
 # Table of contents
 
-- [1. Introduction](##1-Introduction)
-- [2. Build Process](##2-Build-Process)
-- [3. Results](##3-Results)
+- [1. Introduction](#1-Introduction)
+- [2. Build Process](#2-Build-Process)
+- [3. Results](#3-Results)
 
 ----------
 
